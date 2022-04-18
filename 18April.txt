@@ -1,4 +1,0 @@
-Q1 -> https://github.com/Sanyam105678/LoanEligibility
-Q2 -> https://github.com/Sanyam105678/TicketCalculation
-Q3 -> https://github.com/Sanyam105678/Q3
-Q4 -> https://github.com/Sanyam105678/Q4
